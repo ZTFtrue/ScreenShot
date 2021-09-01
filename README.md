@@ -23,3 +23,11 @@
 ```shell
 mvn clean compile assembly:single
 ```
+
+## Run jar
+
+示例
+
+```
+ java -jar C:\Users\ztftrue\Documents\ScreenShotJar\ScreenShot.jar C:\Users\ztftrue\Documents\ScreenShotJar\ScreenShot.json
+```
