@@ -4,7 +4,7 @@
 
 这个类`BaiduOCR` 修改百度的`Key`
 
-不能跨平台, `linux` 上不能用.
+ `linux` 上 wayland 不能用.
 
 ## Json 示例
 
